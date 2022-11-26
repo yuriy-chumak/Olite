@@ -1,0 +1,7 @@
+#!/bin/bash
+# Appl:V VrApi:V
+while :
+do
+	adb logcat -v color ol:V threaded_app:V LIBGL:V VrCubeWorld:V ol-ovr:V ol-egl:V gl2es:V *:F
+	sleep 1
+done

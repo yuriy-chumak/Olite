@@ -1,0 +1,46 @@
+# Blender MTL File: 'None'
+# Material Count: 4
+
+newmtl Material__1
+Ns 7.999999
+Ka 1.000000 1.000000 1.000000
+Kd 0.784314 0.784314 0.784314
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd media/textures/Attack Bomber-T/lod0/page2.bmp
+
+newmtl Material__2
+Ns 7.999999
+Ka 1.000000 1.000000 1.000000
+Kd 0.784314 0.784314 0.784314
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd media/textures/Attack Bomber-T/lod0/page0.bmp
+
+newmtl Material__3
+Ns 7.999999
+Ka 1.000000 1.000000 1.000000
+Kd 0.784314 0.784314 0.784314
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd media/textures/Attack Bomber-T/lod0/engine_back.bmp
+
+newmtl Material__4
+Ns 7.999999
+Ka 1.000000 1.000000 1.000000
+Kd 0.784314 0.784314 0.784314
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd media/textures/Attack Bomber-T/lod0/page1.bmp

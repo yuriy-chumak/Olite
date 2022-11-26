@@ -1,0 +1,20 @@
+{
+	"name": "Cobra Mark III",
+	"model": "Attack Bomber-T",
+
+	"energy_recharge_rate": 4,
+	"fuel": 70,
+
+	"max_cargo": 20,
+	"max_energy": 256,
+	"max_flight_pitch": 1.1,
+	"max_flight_roll": 0.2,
+	"max_flight_speed": 70,
+	"max_missiles": 4,
+	"missile_launch_position": [0.0, -15.5, -24.5],
+	"missiles": 3,
+	"thrust": 64,
+
+	"linear-damping": 0.9,
+	"angular-damping": [0.9, 0.9, 0.9]
+}
